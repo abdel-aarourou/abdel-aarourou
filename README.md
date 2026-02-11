@@ -19,8 +19,6 @@ Currently looking for **Internship opportunities** in Data Science / Data Engine
 
 Selected projects developed during my 2nd and 3rd year at UPM, applying theoretical concepts to real-world scenarios:
 
-* **Cloud Infrastructure:** Designed and deployed scalable architectures on **AWS** (EC2, VPC, RDS) focusing on high availability and security.
-* **Full Stack data apps:** Built robust **REST APIs** using Python/Flask, implementing token-based authentication and integrating **Generative AI (Gemini)** endpoints.
 * **Predictive modeling:** Developed and optimized Supervised Learning models (Regression, SVM, KNN) using **Scikit-learn** and statistical analysis.
 * **Computer Vision:** Engineered an image processing pipeline for **panorama creation**, implementing feature matching and **homography estimation** to stitch images seamlessly.
 
