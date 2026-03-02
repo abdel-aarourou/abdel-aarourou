@@ -17,10 +17,9 @@ Currently looking for **Internship opportunities** in Data Science / Data Engine
 
 ### Featured Projects
 
-Selected projects developed during my 2nd and 3rd year at UPM, applying theoretical concepts to real-world scenarios:
+Project developed during my 3rd year at UPM, applying theoretical concepts to real-world scenarios:
 
 * **Predictive modeling:** Developed and optimized Supervised Learning models (Regression, SVM, KNN) using **Scikit-learn** and statistical analysis.
-* **Computer Vision:** Engineered an image processing pipeline for **panorama creation**, implementing feature matching and **homography estimation** to stitch images seamlessly.
 
 ---
 
