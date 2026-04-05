@@ -17,9 +17,11 @@ Currently looking for **Internship opportunities** in Data Science / Data Engine
 
 ### Featured Projects
 
-Project developed during my 3rd year at UPM, applying theoretical concepts to real-world scenarios:
+Projects developed during my 3rd year at UPM, applying theoretical concepts to real-world scenarios:
 
 * **Predictive modeling:** Developed and optimized Supervised Learning models (Regression, SVM, KNN) using **Scikit-learn** and statistical analysis.
+
+* **[FIFA 19 Player Quality Classifier](https://github.com/abdel-aarourou/fifa-player-quality-classifier):** Deep neural network built with **TensorFlow/Keras** that classifies football players into four quality tiers (Poor, Intermediate, Good, Excellent) from 22 technical attributes. Followed an iterative bias-variance driven design process across 37 configurations. Final model: 2×64 Dense + L1 regularization + Adam — **86.74% test accuracy**.
 
 ---
 
